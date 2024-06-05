@@ -1,5 +1,5 @@
 .navbar {
-    background-color: #343a40;
+    background-color: #50C878;
 }
 .navbar-brand, .nav-link {
     color: white !important;
@@ -56,7 +56,7 @@
     top: 0;
     left: 0;
     width: 250px;
-    background-color: #343a40;
+    background-color: #50C878;
     padding-top: 60px;
 }
 .sidebar a {
